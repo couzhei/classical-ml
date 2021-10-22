@@ -3,12 +3,19 @@
 Machine Learning Notebooks
 ==========================
 
-This project aims at teaching you the fundamentals of Machine Learning in
-python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
+This project aims at teaching myself (and hopefully you) the fundamentals of Machine Learning in
+python. It is mostly (approximately 80%) adopted by the second edition of the famous O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
-**Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml).
+I really love this book and I believe it has a greatly balanced trade-off between practice and theory (which is IMHO 70/30). I didn't hesitate to add a few matrix computations to the collection and append some useful material which I believe Aurelion might have missed.
+
+But that's not all the resources I used. I got help from a few other books, hundreds of stackoverflow questions, and many kaggle notebooks. To list a few of them:
+
+- [Learning From Data](https://work.caltech.edu/telecourse.html)
+- [Machine Learning offered by Coursera](https://www.coursera.org/learn/machine-learning)
+- [Applied Data Science and Machine Learning offered by WorldQuant University](https://www.wqu.edu/programs/data-science/)
+- Machine Learning Yearning, go to [this](https://www.deeplearning.ai/programs/) in order to download it for free.
 
 ## Quick Start
 
@@ -17,7 +24,7 @@ Use any of the following services (I recommended Colab or Kaggle, since they off
 
 **WARNING**: _Please be aware that these services provide temporary environments: anything you do will be deleted after a while, so make sure you download any data you care about._
 
-* <a href="https://colab.research.google.com/github/ageron/handson-ml2/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* <a href="https://colab.research.google.com/github/couzhei/classical-ml/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 * <a href="https://homl.info/kaggle/"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
 
@@ -27,12 +34,12 @@ Use any of the following services (I recommended Colab or Kaggle, since they off
 
 ### Just want to quickly look at some notebooks, without executing any code?
 
-* <a href="https://nbviewer.jupyter.org/github/ageron/handson-ml2/blob/master/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
+* <a href="https://nbviewer.jupyter.org/github/couzhei/classical-ml/index.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
 
-* [github.com's notebook viewer](https://github.com/ageron/handson-ml2/blob/master/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
+* [github.com's notebook viewer](https://github.com/couzhei/classical-ml/blob/master/index.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
 
 ### Want to run this project using a Docker image?
-Read the [Docker instructions](https://github.com/ageron/handson-ml2/tree/master/docker).
+Read the [Docker instructions](https://github.com/couzhei/classical-ml/tree/master/docker).
 
 ### Want to install this project on your own machine?
 
@@ -76,6 +83,3 @@ See [INSTALL.md](INSTALL.md)
 **How do I update my Python libraries to the latest versions, when using Anaconda?**
 
 See [INSTALL.md](INSTALL.md)
-
-## Contributors
-I would like to thank everyone [who contributed to this project](https://github.com/ageron/handson-ml2/graphs/contributors), either by providing useful feedback, filing issues or submitting Pull Requests. Special thanks go to Haesun Park and Ian Beauregard who reviewed every notebook and submitted many PRs, including help on some of the exercise solutions. Thanks as well to Steven Bunkley and Ziembla who created the `docker` directory, and to github user SuperYorio who helped on some exercise solutions.
