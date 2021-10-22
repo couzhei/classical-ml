@@ -1,6 +1,4 @@
-# classical-ml
-
-Machine Learning Notebooks
+Classical Machine Learning Notebooks
 ==========================
 
 This project aims at teaching myself (and hopefully you) the fundamentals of Machine Learning in
