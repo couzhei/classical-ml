@@ -47,7 +47,7 @@ Start by installing [Anaconda](https://www.anaconda.com/distribution/) (or [Mini
 
 Next, clone this project by opening a terminal and typing the following commands (do not type the first `$` signs on each line, they just indicate that these are terminal commands):
 
-    $ git clone https://github.com/ageron/handson-ml2.git
+    $ git clone https://github.com/couzhei/classical-ml.git
     $ cd handson-ml2
 
 Next, run the following commands:
