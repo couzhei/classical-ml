@@ -8,7 +8,7 @@ python. It is mostly (approximately 80%) adopted by the second edition of the fa
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
-I really love this book and I believe it has a greatly balanced trade-off between practice and theory (which is IMHO 70/30). I didn't hesitate to add a few matrix computations to the collection and append some useful material which I believe Aurelion might have missed.
+I really love this book and I believe it has a greatly balanced trade-off between practice and theory (which is IMHO 70/30). I didn't hesitate to add a few matrix computations to the collection and append some useful materials which I believe Aurelion might have missed.
 
 But that's not all the resources I used. I got help from a few other books, hundreds of stackoverflow questions, and many kaggle notebooks. To list a few of them:
 
