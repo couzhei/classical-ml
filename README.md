@@ -5,11 +5,11 @@ This project aims at teaching myself (and hopefully you) the fundamentals of Mac
 python. It is mostly (approximately 80%) adopted by the second edition of the famous O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
 
-<table style="border: 0">
-<tr style="border: 0">
-<th style="border: 0"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="homl" width="150" /></th>
-<th style="border: 0"><img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" title="AMLBook" width="150"></th>
-<th style="border: 0"><img src="3.jpg" alt=""/></th>
+<table style="border: medium hidden">
+<tr style="border: medium hidden">
+<th style="border: medium hidden"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="homl" width="150" /></th>
+<th style="border: medium hidden"><img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" title="AMLBook" width="150"></th>
+<th style="border: medium hidden"><img src="3.jpg" alt=""/></th>
 </tr>
 </table>
 
