@@ -11,7 +11,7 @@ python. It is mostly (approximately 80%) adopted by the second edition of the fa
 <tr style="border: medium hidden; border-collapse: collapse !important;border:none !important;outline:none !important;">
 <th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="homl" width="150" height="220"/></th>
 <th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" title="AMLBook" width="150" height="220"></th>
-<th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="3.jpg" alt=""/></th>
+<th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://www.dbooks.org/img/books/1501.jpg" width="150" height="220"/></th>
 </tr>
 </table>
 
