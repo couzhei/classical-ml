@@ -9,8 +9,8 @@ python. It is mostly (approximately 80%) adopted by the second edition of the fa
 
 <table width="468" cellspacing="0" cellpadding="0" border="0" style="width: 468px; height: 201px; border: 0px solid transparent">
 <tr style="border: medium hidden; border-collapse: collapse !important;border:none !important;outline:none !important;">
-<th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="homl" width="150" /></th>
-<th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" title="AMLBook" width="150"></th>
+<th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="homl" width="150" height="300"/></th>
+<th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" title="AMLBook" width="150" height="300"></th>
 <th style="border: 0; border-collapse: collapse !important;border:none !important;outline:none !important;"><img src="3.jpg" alt=""/></th>
 </tr>
 </table>
