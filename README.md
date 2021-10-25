@@ -4,16 +4,13 @@ Classical Machine Learning Notebooks
 This project aims at teaching myself (and hopefully you) the fundamentals of Machine Learning in
 python. It is mostly (approximately 80%) adopted by the second edition of the famous O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
-
-  <div id="banner">
+<div id="banner">  
     <div class="inline-block">
         <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="homl" width="150" />
     </div>
-
     <div class="inline-block">
         <img src="https://images-na.ssl-images-amazon.com/images/I/41FYZhzwm2L._SX323_BO1,204,203,200_.jpg" title="AMLBook" width="150">
     </div>
-
     <div class="inline-block">
         <img src ="img3.jpg">
     </div>
