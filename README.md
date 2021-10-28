@@ -33,13 +33,11 @@ Use any of the following services (I recommended Colab or Kaggle, since they off
 
 * <a href="https://colab.research.google.com/github/couzhei/classical-ml/blob/master/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-* <a href=""><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/couzhei/classical-ml/HEAD)
 
 * <a href=""><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 <!--* <a href="https://homl.info/kaggle/"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
-
-* <a href="https://mybinder.org/v2/gh/ageron/handson-ml2/HEAD?filepath=%2Findex.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Launch binder" /></a>
 
 * <a href="https://homl.info/deepnote/"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote" /></a>
 -->
