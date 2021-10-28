@@ -35,6 +35,8 @@ Use any of the following services (I recommended Colab or Kaggle, since they off
 
 * <a href=""><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
+* <a href=""><img src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
+
 <!--* <a href="https://homl.info/kaggle/"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open in Kaggle" /></a>
 
 * <a href="https://mybinder.org/v2/gh/ageron/handson-ml2/HEAD?filepath=%2Findex.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Launch binder" /></a>
